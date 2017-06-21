@@ -4,8 +4,8 @@
       <div class="slItems">
         <div class="slItem" style="background-image: url('views/assets/images/slider-1.png');"></div>
         <div class="slItem" style="background-image: url('views/assets/images/slider-2.png');"></div>
-        <div class="slItem" style="background-image: url('views/assets/images/slider-5.png');"></div>
-        <div class="slItem" style="background-image: url('views/assets/images/slider-6.png');"></div>
+        <div class="slItem" style="background-image: url('views/assets/images/cream.png');"></div>
+        <div class="slItem" style="background-image: url('views/assets/images/chicken-sandwich.png');"></div>
       </div>
     </div>
   </div>
